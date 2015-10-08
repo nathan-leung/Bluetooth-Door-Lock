@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <!-- From: file:/C:/Users/Nathan/Documents/GitHub/Bluetooth%20Door%20Lock/Android%20Application/app/src/main/res/values/dimens.xml -->
+    <!-- From: file:/C:/Users/Nathan/Documents/GitHub/Bluetooth%20Door%20Lock/Bluetooth-Door-Lock/Android%20Application/app/src/main/res/values/dimens.xml -->
     <eat-comment/>
     <dimen name="activity_horizontal_margin">16dp</dimen>
     <dimen name="activity_vertical_margin">16dp</dimen>
-    <!-- From: file:/C:/Users/Nathan/Documents/GitHub/Bluetooth%20Door%20Lock/Android%20Application/app/src/main/res/values/strings.xml -->
+    <!-- From: file:/C:/Users/Nathan/Documents/GitHub/Bluetooth%20Door%20Lock/Bluetooth-Door-Lock/Android%20Application/app/src/main/res/values/strings.xml -->
     <eat-comment/>
     <string name="Find">Search new Devices</string>
     <string name="List">List paired Devices</string>
@@ -13,7 +13,7 @@
     <string name="app_name">BluetoothTest</string>
     <string name="off">Turn Off</string>
     <string name="on">Turn On</string>
-    <!-- From: file:/C:/Users/Nathan/Documents/GitHub/Bluetooth%20Door%20Lock/Android%20Application/app/src/main/res/values/styles.xml -->
+    <!-- From: file:/C:/Users/Nathan/Documents/GitHub/Bluetooth%20Door%20Lock/Bluetooth-Door-Lock/Android%20Application/app/src/main/res/values/styles.xml -->
     <eat-comment/>
     <style name="AppBaseTheme" parent="android:Theme.Light">
         <!--

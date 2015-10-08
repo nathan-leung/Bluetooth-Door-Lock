@@ -5,7 +5,7 @@
  * should not be modified by hand.
  */
 
-package com.javacodegeeks.android.bluetoothtest;
+package com.nathan.android.bluetoothtest;
 
 public final class R {
     public static final class attr {

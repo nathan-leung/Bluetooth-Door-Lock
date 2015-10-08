@@ -1,7 +1,7 @@
 /**
  * Automatically generated file. DO NOT MODIFY
  */
-package com.javacodegeeks.android.bluetoothtest;
+package com.nathan.android.bluetoothtest;
 
 public final class BuildConfig {
   public static final boolean DEBUG = Boolean.parseBoolean("true");

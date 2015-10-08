@@ -1,6 +1,5 @@
-package com.javacodegeeks.android.bluetoothtest;
+package com.nathan.android.bluetoothtest;
 
-import android.bluetooth.BluetoothServerSocket;
 import android.bluetooth.BluetoothSocket;
 import android.os.Bundle;
 import android.app.Activity;
@@ -12,7 +11,6 @@ import android.content.Context;
 import java.io.IOException;
 import java.io.InputStream;
 import java.io.OutputStream;
-import java.lang.ref.WeakReference;
 import java.util.ArrayList;
 import java.util.Set;
 import java.util.UUID;
